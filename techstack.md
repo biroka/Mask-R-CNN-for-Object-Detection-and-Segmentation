@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 biroka/Mask-R-CNN-for-Object-Detection-and-Segmentation is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [OpenCV](http://opencv.org/) – Image Processing and Management
 - [scikit-image](http://scikit-image.org/) – Image Processing and Management
@@ -13,11 +14,13 @@ biroka/Mask-R-CNN-for-Object-Detection-and-Segmentation is built on the followin
 - [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 biroka/Mask-R-CNN-for-Object-Detection-and-Segmentation is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/1294/897180.png' alt='scikit-image'/> [scikit-image](http://scikit-image.org/) – Image Processing and Management
@@ -29,14 +32,15 @@ biroka/Mask-R-CNN-for-Object-Detection-and-Segmentation is built on the followin
 - <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [biroka/Mask-R-CNN-for-Object-Detection-and-Segmentation](https://github.com/biroka/Mask-R-CNN-for-Object-Detection-and-Segmentation)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|11/09/23 <br/>Report generated|
+|10<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -148,4 +152,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
